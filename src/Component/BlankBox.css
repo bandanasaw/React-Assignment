@@ -1,0 +1,23 @@
+.main-blankBox {
+    display: flex;
+    flex-direction: column;
+}
+.props-name-blankBox{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.blankBox {
+    display: flex;
+    width: 150px;
+    height: 200px;
+    border: 1px solid darkgray;
+    border-radius: 5px;
+    background-color: darkgrey;
+    margin: 15px;
+
+}
+h6{
+    color: #a9a9a9c2;
+}

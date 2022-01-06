@@ -1,0 +1,9 @@
+.card-props-headername{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.card-headerName{
+    margin-top: -20px;
+    font-weight: 20px;
+}
